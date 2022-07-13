@@ -12,5 +12,5 @@ result=x+y
 print(result)
 print(type(result))
 #str เป็น int
-result=x+int(z)
+result = x+int(z)
 print(result)
