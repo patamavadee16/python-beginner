@@ -1,7 +1,8 @@
-name = "Patamavadee : 20"
+name = "0123456789"
 name1 = "bangkok"
 nickname = "pear"
 thainame ="นางสาวปฐมาวดี"
+print(name[8:])
 print(name[1:9])
 print(name[-1])
 name.strip()
